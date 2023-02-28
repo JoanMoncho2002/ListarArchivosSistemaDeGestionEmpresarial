@@ -29,4 +29,12 @@ public class Main {
             return ffff + "-" + cccc + "-" + ddmmaa;
         }
     }*/
+
+    /*GeneradorNumeroFactura generadorNumeroFactura = new GeneradorNumeroFactura();
+    Factura nuevaFactura = new Factura(
+            generadorNumeroFactura.generarNumeroFactura("12345", LocalDate.now()),
+            "12345",
+            LocalDate.now(),
+            100.0
+    );*/
 }
